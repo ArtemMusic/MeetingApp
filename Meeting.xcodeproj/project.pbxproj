@@ -23,6 +23,7 @@
 		8C221BCF2C8641480062CD17 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C221BCE2C8641480062CD17 /* ScrumTimer.swift */; };
 		8C221BD12C86E5DA0062CD17 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C221BD02C86E5D90062CD17 /* MeetingFooterView.swift */; };
 		8C221BD32C86E8600062CD17 /* NewScrumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C221BD22C86E8600062CD17 /* NewScrumView.swift */; };
+		8C57B0292C89A8D600F2CE40 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C57B0282C89A8D600F2CE40 /* History.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		8C221BCE2C8641480062CD17 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		8C221BD02C86E5D90062CD17 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		8C221BD22C86E8600062CD17 /* NewScrumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumView.swift; sourceTree = "<group>"; };
+		8C57B0282C89A8D600F2CE40 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				8C221BB82C859BC00062CD17 /* Theme.swift */,
 				8C221BBD2C859C510062CD17 /* DailyScrum.swift */,
+				8C57B0282C89A8D600F2CE40 /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				8C221BC62C85F77B0062CD17 /* DetailEditView.swift in Sources */,
 				8C221BC42C85B7DE0062CD17 /* DetailView.swift in Sources */,
 				8C221BCF2C8641480062CD17 /* ScrumTimer.swift in Sources */,
+				8C57B0292C89A8D600F2CE40 /* History.swift in Sources */,
 				8C221BCD2C863CA20062CD17 /* MeetingHeaderView.swift in Sources */,
 				8C221BAC2C8597970062CD17 /* MeetingView.swift in Sources */,
 				8C221BAA2C8597970062CD17 /* MeetingApp.swift in Sources */,

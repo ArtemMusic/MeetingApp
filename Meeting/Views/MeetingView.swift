@@ -29,8 +29,9 @@ struct MeetingView: View {
                 scrumTimer.startScrum()
             }
             .onDisappear {
-                        scrumTimer.stopScrum()
-                    }
+                scrum.history.insert(History(attendees: scrum.attendees), at: 0)
+                scrumTimer.stopScrum()
+            }
         }
     }
 }
