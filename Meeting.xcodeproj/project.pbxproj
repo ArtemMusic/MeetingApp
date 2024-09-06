@@ -24,6 +24,7 @@
 		8C221BD12C86E5DA0062CD17 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C221BD02C86E5D90062CD17 /* MeetingFooterView.swift */; };
 		8C221BD32C86E8600062CD17 /* NewScrumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C221BD22C86E8600062CD17 /* NewScrumView.swift */; };
 		8C57B0292C89A8D600F2CE40 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C57B0282C89A8D600F2CE40 /* History.swift */; };
+		8C57B02B2C89AD5800F2CE40 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C57B02A2C89AD5800F2CE40 /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		8C221BD02C86E5D90062CD17 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		8C221BD22C86E8600062CD17 /* NewScrumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumView.swift; sourceTree = "<group>"; };
 		8C57B0282C89A8D600F2CE40 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		8C57B02A2C89AD5800F2CE40 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				8C221BB82C859BC00062CD17 /* Theme.swift */,
 				8C221BBD2C859C510062CD17 /* DailyScrum.swift */,
 				8C57B0282C89A8D600F2CE40 /* History.swift */,
+				8C57B02A2C89AD5800F2CE40 /* ScrumStore.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			files = (
 				8C221BBE2C859C510062CD17 /* DailyScrum.swift in Sources */,
 				8C221BC22C85AFBB0062CD17 /* ScrumsView.swift in Sources */,
+				8C57B02B2C89AD5800F2CE40 /* ScrumStore.swift in Sources */,
 				8C221BB92C859BC00062CD17 /* Theme.swift in Sources */,
 				8C221BCB2C860CA10062CD17 /* ThemePicker.swift in Sources */,
 				8C221BD32C86E8600062CD17 /* NewScrumView.swift in Sources */,
